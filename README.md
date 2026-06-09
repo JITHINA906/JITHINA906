@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jithina 👋
 
-<!--
-**JITHINA906/JITHINA906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Cloud Engineer Intern
 
-Here are some ideas to get you started:
+## About Me
+Motivated IT graduate with hands-on experience in AWS cloud services, Linux administration, and cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- AWS (EC2, S3, IAM, VPC, CloudWatch)
+- Linux
+- Git & GitHub
+- PowerShell
+- Networking
+- SQL
+
+## Current Focus
+- AWS Cloud Engineering
+- Infrastructure Management
+- Automation
+- Cloud Security
+
+## Projects
+- EC2 Instance Profile Access to S3
+- EBS Volume Management
+- CloudWatch Alarms and Monitoring
+- VPC and Security Group Configuration
+
+## Connect With Me
+- GitHub: github.com/JITHINA906
